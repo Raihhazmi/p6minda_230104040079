@@ -98,12 +98,18 @@ app/
 
 ## 📸 Cuplikan Layar (Screenshots)
 
-| Onboarding | Home & Calendar | Insights & Settings |
-|:-----------:|:---------------:|:-------------------:|
-| ![Onboarding 1](https://i.imgur.com/placeholder.png) | ![Home Screen](https://i.imgur.com/placeholder.png) | ![Insights](https://i.imgur.com/placeholder.png) |
-| ![Onboarding 2](https://i.imgur.com/placeholder.png) | ![Calendar Screen](https://i.imgur.com/placeholder.png) | ![Settings](https://i.imgur.com/placeholder.png) |
+| Onboarding (1) | Home | Insights |
+|:--------------:|:----:|:--------:|
+| ![Welcome To Minda](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/Welcome%20To%20Minda.png) | ![Home Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/Home%20Screen.png) | ![Insights Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/InsightsScreen.png) |
+| Onboarding (2) | Calendar | Settings |
+| ![What’s Your Name](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/What%E2%80%99s%20your%20Name.png) | ![Calendar Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/CalendarScreen.png) | ![Settings Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/SettingsScreen.png) |
+| Onboarding (3) | New Entry | Edit Entry |
+| ![Welcome To Your Minda](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/Welcome%20To%20Your%20Minda.png) | ![New Entry Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/NewEntryScreen.png) | ![Edit Entry Screen](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/EditEntryScreen.png) |
+| Onboarding (4) | Icon Changed |  |
+| ![You're all Set](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/You're%20all%20Set.png) | ![Icon Changed Proof](https://github.com/Raihhazmi/p6minda_230104040079/blob/master/assets/Bukti%20sdh%20ganti%20icon.png) |   |
 
-> *Ganti URL `placeholder.png` dengan tangkapan layar asli proyek Anda.*
+> *Seluruh tangkapan layar diambil langsung dari versi final aplikasi Minda.*
+
 
 ---
 
