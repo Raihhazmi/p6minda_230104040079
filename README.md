@@ -17,7 +17,7 @@
 | **Muhayat, M.IT** | Dosen Pembimbing |
 
 📧 **Email:** [raihanazmi37@gmail.com](mailto:raihanazmi37@gmail.com)  
-🏫 **Universitas Antasari – Fakultas Teknologi Informasi**
+🏫 **Universitas Antasari – Fakultas Dakwah Dan Ilmu Komunikasi - Jurusan Teknologi Informasi**
 
 ---
 
